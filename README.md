@@ -8,7 +8,7 @@ Click the plus to make a website!
 (DISCLAIMER: the editor currently only supports 1 file so :I but you can still program js files in HTML files so...)
 click the search bar to search a URL (unless someone somehow makes a search engine for this)
 
-For Moderator instructions click [Here](https://github.com/we09532/SnailNet/blob/main/Developers.md)
+For Moderator instructions click [Here](https://github.com/Snail-Net/Snail-Net.github.io/blob/main/Developers.md)
 
 ### Notes and Credits
 Made by @Randomuser12342 (dogstudios55), and @we09532
