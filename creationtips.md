@@ -16,3 +16,5 @@ https://we09532.github.io/SnailNet?starterurl=mycoolpage
 #### Parameters
 - starterurl - Redirect URL
 - embedredirect - if this exists then it will disable music in the redirect. this is better for code because it wont overlap sounds
+
+#### WARNING - Do not use / for subpages. it will not work and it will be a pain for the devs to remove because Developer Mode CANT DETECT /
