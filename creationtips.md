@@ -1,4 +1,4 @@
-# *Note: This is only for Snailnet 1.6. This feature has been implemented :D*
+# *Note: This is only for Snailnet 1.6. and forward. This feature has been implemented :D*
 ## How to redirect to other pages
 Sience Version 1.0, You could only make 1 home page, but 1.6 added a feature where you can make redirects to this. but a tutorial was never made.
 ## So how do i do it?
